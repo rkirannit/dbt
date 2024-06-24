@@ -4,15 +4,4 @@ sources:
     database: "{{('dbt_db')}}"
     schema: staging_layer
 
-    tables:
-      - name: STG_CUSTOMERS
-      - name: STG_PAYMENTS
-      - name: STG_ORDERS
-      - name: STG_CUSTOMER_DATA
-      - name: STG_ITEMS_DATA
-      - name: STG_PRODUCT_DATA
-      - name: STG_SUPPLIES_DATA
-      - name: STG_ORDER_DATA
-      - name: STG_ORDER_INFO
-      
-
+    
