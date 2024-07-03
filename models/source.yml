@@ -14,4 +14,5 @@ sources:
       - name: STG_SUPPLIES_DATA
       - name: STG_ORDER_DATA
       - name: STG_ORDER_INFO
+      - name: emp
 
