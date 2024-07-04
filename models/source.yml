@@ -3,7 +3,7 @@ sources:
   - name: datafeed_shared_schema 
     database: "{{('dbt_db')}}"
     schema: public
-
+    
     tables:
       - name: STG_CUSTOMERS
       - name: STG_PAYMENTS
@@ -15,4 +15,9 @@ sources:
       - name: STG_ORDER_DATA
       - name: STG_ORDER_INFO
       - name: emp
+      
+      
+
+
+      
 
